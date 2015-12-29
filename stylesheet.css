@@ -1,0 +1,118 @@
+.nav {
+    background-color: #6bc6fa;
+    width: 100%;
+    z-index: 1000;
+    position: fixed;
+}
+.nav ul li {
+    display: inline;
+    font-size: 40px;
+    padding-left: 200px;
+}
+
+.nav ul li a:link {
+    text-decoration-color: #e1e1ea;
+    color: #e1e1ea;
+}
+
+.nav ul li a:visited {
+    text-decoration-color: #e1e1ea;
+    color: #e1e1ea;
+}
+
+.nav ul li a:hover {
+    text-decoration-color: #e1e1ea;
+    color: #e1e1ea;
+}
+
+.nav ul li a:active {
+    color: #e1e1ea;
+    text-decoration-color: #e1e1ea;
+}
+
+.jumbotron h1 {
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-size: 80px;
+}
+
+.jumbotron p {
+    position: relative;
+    text-align: center;
+    font-size: 64px;
+    top: 145px;
+}
+
+.jumbotron {
+    padding-bottom: 500px;
+    background: url(http://i.imgur.com/l4Ulz7o.jpg);
+    background-size: 1920px 630px;
+    background-repeat: no-repeat;
+}
+
+#aboutme h1 {
+    font-size: 64px;
+    text-align: center;
+}
+
+#aboutme p {
+    font-size: 20px;
+    text-align: center;
+}
+
+#aboutme h2 {
+    text-align: center;
+}
+
+#aboutme ul {
+    font-size: 20px;
+    padding-left: 300px;
+    list-style-type: none;
+}
+
+.familiar-with h2 {
+    padding: 3px;
+}
+
+.projects h1 {
+    padding-top: 60px;
+    font-size: 64px;
+    text-align: center;
+}
+
+.projects p {
+    font-size: 20px;
+    text-align: center;
+}
+.col-md-3 {
+    padding-top: 20px;
+}
+.col-md-3 p {
+    text-align: left;
+}
+
+.col-md-3 h2 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.col-md-4 {
+    background-color: #6dcaff;
+    padding-top: 00px;
+    text-align: center;
+}
+
+.col-md-4 a {
+    text-decoration: none;
+    color: #e1e1ea;
+}
+
+.col-md-4 {
+    padding: 10px;
+    font-size: 24px;
+}
+
+.chat-v2 p {
+    padding-left: 15px;
+}
